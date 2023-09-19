@@ -16,3 +16,11 @@ path = "src/print.rs"
 [[bin]]
 name = "display"
 path = "src/display.rs"
+
+[[bin]]
+name = "primitives"
+path = "src/primitives.rs"
+
+[[bin]]
+name = "slice_arrays"
+path = "src/slice_arrays.rs"
